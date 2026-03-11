@@ -2,7 +2,7 @@
 
 A small Go CLI for tracking tasks in a local JSON file.
 
-repo:https://roadmap.sh/projects/task-tracker
+project URL:https://roadmap.sh/projects/task-tracker
 
 ## Features
 
